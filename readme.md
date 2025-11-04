@@ -5,6 +5,13 @@
 * Text
 * StackPane
 
+## Step 0. Setup project
+Student to-dos:
+* Check JavaFX plugin is installed 
+* Accept the GitHub classroom assignment.
+* Clone the repo to their computer.
+* Download Maven documentation in IntelliJ
+
 ## Step 1: Application class
 Write the complete `public class MyShapes extends Application`
 
