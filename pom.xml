@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.spjavau04myshapesdemo/com.example.spjavau04myshapesdemo.HelloApplication
+                                com.example.spjavau04myshapesdemo/com.example.spjavau04myshapesdemo.MyShapes
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
