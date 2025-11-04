@@ -3,8 +3,9 @@
 * Scene
 * Ellipse
 * Text
-* StackPane  
-Output: 
+* StackPane
+
+### Output: 
 <img src="myshapes-output.png" width="352" alt="MyShapes output" />
 
 ## Step 0. Setup project
